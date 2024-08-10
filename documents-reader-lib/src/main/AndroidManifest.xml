@@ -25,7 +25,7 @@
             android:configChanges="keyboardHidden|orientation"
             android:exported="true"
             android:label="@string/app_name">
-            <intent-filter>
+<!--             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
             <intent-filter>
@@ -59,7 +59,7 @@
                 <data android:mimeType="text/java" />
                 <data android:mimeType="text/json" />
                 <data android:mimeType="text/plain" />
-            </intent-filter>
+            </intent-filter> -->
         </activity>
     </application>
 
